@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+// normalnie
 int nwd(int a, int b) {
     while (b != a)
         if (b > a)
@@ -9,6 +11,7 @@ int nwd(int a, int b) {
     return a;
 }
 
+//rekurencyjnie
 int nwd1(int a , int b){
 
 /*	if(b>a)
