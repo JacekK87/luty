@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-// normalnie
+// iteracyjnie
 int nwd(int a, int b) {
     while (b != a)
         if (b > a)
