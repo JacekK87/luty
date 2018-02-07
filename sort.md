@@ -1,4 +1,4 @@
-#H1 Przez prostą zamianę – bąbelkowe (Bubble Sort) –BbS
+#  Przez prostą zamianę – bąbelkowe (Bubble Sort) –BbS
 <p>Sprawdzamy całą tablicę od dołu do góry (od prawej do lewej strony). Analizowane są 
 zawsze  dwa  sąsiadujące  ze  sobą  elementy.  Jeżeli  uporządkowane  są  one  tak,  że  większy 
 poprzedza mniejszy to zamieniane są one miejscami. Czynność powtarzana jest tak długo, 
@@ -32,14 +32,14 @@ liczby  o  najmniejszej  wartości  (prz
 yjmując  sortowanie  w  kierunku  wartości 
 niemalejących).</p>
 <p></p>
-#H1 Przez proste wstawianie (Insertion Sort) – IS
+#  Przez proste wstawianie (Insertion Sort) – IS
 <p>Algorytm ten działa w taki sposób w jaki ludzie często porządkują talię kart. Zaczynamy od 
 „pustej”  lewej  ręki,  po  czym  bierzemy  ze  stołu  kolejne  karty  i  wstawiamy  je  we  właściwe 
 miejsca w talii kart, trzymanej  w lewej ręce.  Aby  znaleźć  właściwe miejsce dl
 a  danej karty, 
 porównujemy ją z kartami, które już mamy w ręce, przesuwając się od strony prawej do lewej.</p> 
 <p></p>
-#H1 Przez proste wybieranie/wymianę (Selection Sort) 
+# Przez proste wybieranie/wymianę (Selection Sort) 
 <p>Na  początku  szukany  jest  najmniejszy  element.  Po  jego  znalezieniu  jest  on  zamieniany  z 
 pierwszym  elementem  tablicy. 
 począwszy od
